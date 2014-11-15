@@ -1,5 +1,5 @@
 cd ../data/Hollywood2/AVIClips
-execute_dir="../../../act_rec_code/CVPR2015-DrT/release"
+execute_dir="../../../act_rec_code/improved_trajectory_release/release"
 bb_dir="../../../data/Hollywood2_face/"
 out_dir="../../../working/Hollywood2_feature_tam/"
 for file in actionclipt*
